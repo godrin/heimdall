@@ -304,7 +304,7 @@ doc-version-select {
       border-left: .125rem solid transparent;
 
       .active,
-      &:active,
+      &.active,
       &:hover {
         color: var(--bs-link-color);
       }
